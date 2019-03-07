@@ -1,7 +1,4 @@
-# maybyimportant
-
-
-# <font color=#CC0000>**ESun Python Coding Style** </font>
+# maybe important
 ---
 
 ### <font color=#00AAAA>文件圖示說明 </font>
